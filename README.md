@@ -1,9 +1,11 @@
 # Appointment Scheduler
 An appointment Scheduler tool for doctors and secretaries created with C#. 
-<br/>
-It enables the users to create, edit, delete appointments and assign them to specific hours and days. In addition it notifies the user for holidays and upcoming appoitments that they have created.
 
 ---
+
+It enables the users to create, edit, delete appointments and assign them to specific hours and days. In addition it notifies the user for holidays and upcoming appoitments that they have created.
+
+
 
 ## Appointment Day-View
 ![app-day](https://github.com/GeorgeCodeHub/Appointment-Scheduler/blob/main/Screenshots/Appointment-day.png)
