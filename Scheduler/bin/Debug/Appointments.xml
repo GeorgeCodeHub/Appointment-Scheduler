@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfAppointment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <appointment>
+    <AppointmentID>0</AppointmentID>
+    <AppointmentName>test it</AppointmentName>
+    <AppointmentDescription />
+    <AppointmentYear>2020</AppointmentYear>
+    <AppointmentMonth>10</AppointmentMonth>
+    <AppointmentDay>26</AppointmentDay>
+    <AppointmentFrom>0</AppointmentFrom>
+    <AppointmentTo>0</AppointmentTo>
+    <AppointmentAllDay>true</AppointmentAllDay>
+  </appointment>
+</ArrayOfAppointment>
