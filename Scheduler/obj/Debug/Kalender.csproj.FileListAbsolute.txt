@@ -1,0 +1,30 @@
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\bin\Debug\Kalender.exe.config
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\bin\Debug\Kalender.exe
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\bin\Debug\Kalender.pdb
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\bin\Debug\MaterialSkin.dll
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.csprojAssemblyReference.cache
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.Form1.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.main.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.Notizen.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.Properties.Resources.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.TerminHinzufuegen.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.csproj.GenerateResource.cache
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.csproj.CopyComplete
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.exe
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendario-master\Kalender\Kalender\obj\Debug\Kalender.pdb
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\bin\Debug\Kalender.exe.config
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\bin\Debug\Kalender.exe
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\bin\Debug\Kalender.pdb
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\bin\Debug\MaterialSkin.dll
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.csprojAssemblyReference.cache
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.Form1.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.main.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.Notizen.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.Properties.Resources.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.TerminHinzufuegen.resources
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.csproj.GenerateResource.cache
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.csproj.CopyComplete
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.exe
+C:\Users\George\Documents\ΜΕΤΑΠΤΥΧΙΑΚΟ\C#\Calendar-master\Appointment Manager\Kalender\obj\Debug\Kalender.pdb
